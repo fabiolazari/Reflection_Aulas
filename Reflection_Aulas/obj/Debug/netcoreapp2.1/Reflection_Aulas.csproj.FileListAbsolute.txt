@@ -1,0 +1,11 @@
+C:\projetos\Reflection_Aulas\Reflection_Aulas\bin\Debug\netcoreapp2.1\Reflection_Aulas.deps.json
+C:\projetos\Reflection_Aulas\Reflection_Aulas\bin\Debug\netcoreapp2.1\Reflection_Aulas.runtimeconfig.json
+C:\projetos\Reflection_Aulas\Reflection_Aulas\bin\Debug\netcoreapp2.1\Reflection_Aulas.runtimeconfig.dev.json
+C:\projetos\Reflection_Aulas\Reflection_Aulas\bin\Debug\netcoreapp2.1\Reflection_Aulas.dll
+C:\projetos\Reflection_Aulas\Reflection_Aulas\bin\Debug\netcoreapp2.1\Reflection_Aulas.pdb
+C:\projetos\Reflection_Aulas\Reflection_Aulas\obj\Debug\netcoreapp2.1\Reflection_Aulas.csprojAssemblyReference.cache
+C:\projetos\Reflection_Aulas\Reflection_Aulas\obj\Debug\netcoreapp2.1\Reflection_Aulas.csproj.CoreCompileInputs.cache
+C:\projetos\Reflection_Aulas\Reflection_Aulas\obj\Debug\netcoreapp2.1\Reflection_Aulas.AssemblyInfoInputs.cache
+C:\projetos\Reflection_Aulas\Reflection_Aulas\obj\Debug\netcoreapp2.1\Reflection_Aulas.AssemblyInfo.cs
+C:\projetos\Reflection_Aulas\Reflection_Aulas\obj\Debug\netcoreapp2.1\Reflection_Aulas.dll
+C:\projetos\Reflection_Aulas\Reflection_Aulas\obj\Debug\netcoreapp2.1\Reflection_Aulas.pdb
